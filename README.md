@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**hersely/hersely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there 👋
 
 - 🔭 I’m currently working on how to graduate earlier
 - 🌱 I’m currently learning about econometrics
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @kirillywilly on almost anything social media
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was born in Uzbekistan and I speak three languages
--->
